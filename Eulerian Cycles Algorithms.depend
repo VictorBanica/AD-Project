@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527938435 source:c:\users\victor\desktop\eulerian cycles algorithms\functions.c
+	<stdio.h>
+	<conio.h>
+	"functions.h"
+
+1527938588 c:\users\victor\desktop\eulerian cycles algorithms\functions.h
+
+1527938476 source:c:\users\victor\desktop\eulerian cycles algorithms\main.c
+	<stdio.h>
+	<conio.h>
+	"functions.h"
+
