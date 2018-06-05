@@ -1,13 +1,21 @@
 # depslib dependency file v1.0
-1527938435 source:c:\users\victor\desktop\eulerian cycles algorithms\functions.c
+1528229742 source:c:\users\victor\desktop\eulerian cycles algorithms\list.c
 	<stdio.h>
-	<conio.h>
-	"functions.h"
+	"list.h"
+	"rosensthiel.h"
 
-1527938588 c:\users\victor\desktop\eulerian cycles algorithms\functions.h
+1528229677 c:\users\victor\desktop\eulerian cycles algorithms\list.h
 
-1527938476 source:c:\users\victor\desktop\eulerian cycles algorithms\main.c
+1528229119 c:\users\victor\desktop\eulerian cycles algorithms\rosensthiel.h
+
+1528229651 source:c:\users\victor\desktop\eulerian cycles algorithms\main.c
 	<stdio.h>
-	<conio.h>
-	"functions.h"
+	<time.h>
+	"list.h"
+	"rosensthiel.h"
+
+1528229587 source:c:\users\victor\desktop\eulerian cycles algorithms\rosensthiel.c
+	<stdio.h>
+	"list.h"
+	"rosensthiel.h"
 
